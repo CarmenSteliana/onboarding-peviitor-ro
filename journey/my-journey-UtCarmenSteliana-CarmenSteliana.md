@@ -10,8 +10,7 @@ Currently, I am impatient and excited to join the peviitor.ro project in order t
 
 
 PS: I have looked at the Google documentary and the final sentence of Ben Gomes who said " our job here in Search is never done" caught my attention.
-
-I consider that Ben Gomes' quote highlights a fundamental truth for both the development of search algorithms and software testing: the need for continuous learning and      adaptation. To be a good tester, it is essential to adopt a continuous improvement mindset, stay up to date with the latest trends and technologies, and always be    willing to learn and adapt to new challenges. 
-    
+I consider that Ben Gomes' quote highlights a fundamental truth for both the development of search algorithms and software testing: the need for continuous learning and      adaptation. 
+To be a good tester, it is essential to adopt a continuous improvement mindset, stay up to date with the latest trends and technologies, and always be willing to learn and adapt to new challenges. 
 This dedication to continuous learning ensures that testers can effectively contribute to the quality and success of the software over time.
 
